@@ -22,24 +22,48 @@ https://drive.google.com/file/d/1J3bCi5iDtyk17i97aajqWdPkvXXKCTo7/view?usp=shari
 
 We have a launcher in the top left corner which is used to navigate to the three sections of our application like Home page, Categories, And search.
 
+![Launcher](image.png)\
+
+
 ### Home Page
 
 Home Page consists of the Receipes and their respective information.
 
+![Home Page](image-2.png)
+
+
 ## Categories Page
 
 Categories Page consists of the number of categories and their respective information like Telangana food , Italian food and more one can choose their respecive category as their need.
+
+![Categories Page](image-3.png)
 
 
 ## Search  Page
 
 Search Page has a search bar , where a person can search the receipe he wanted or he can search the category he wanted.
 
+
+![Search Page](image-4.png)
+
+
 ## After selection of the receipe
 
 After selection of the receipe has done it has the information regarding the cooking time, ingredients needed button, and the receipe process.
 
+![Receipe Details](image-7.png)
+
 when one clicks on the ingredients button it shows the list of ingredients and their quantity.
+
+![Ingredients](image-8.png)
+
+
+
+![Specific Ingredient](image-9.png)
+
+
+
+
 
 
 
